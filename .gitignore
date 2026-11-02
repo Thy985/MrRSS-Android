@@ -1,0 +1,23 @@
+# Gradle and Kotlin caches
+.gradle/
+.kotlin/
+**/build/
+
+# Local Android SDK configuration
+local.properties
+
+# Build artifacts
+*.apk
+*.aab
+
+# Signing keys and local service configuration
+*.jks
+*.keystore
+keystore.properties
+google-services.json
+
+# IDE and OS files
+.idea/
+*.iml
+.DS_Store
+captures/
